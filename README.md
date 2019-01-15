@@ -1,2 +1,3 @@
 # ML-Project2
-Predict Weight of a human by height, age, gender (linear regression)
+Predict Weight of a human when height, age & gender is given
+Algorithm Applied = linear regression
